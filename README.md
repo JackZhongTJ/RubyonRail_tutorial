@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-== README
+
 Ruby on rail tutorial
 Ruby on rail tutorial
 
@@ -29,7 +28,7 @@ Things you may want to cover:
 
 Please feel free to use a different markup language if you do not plan to run
 <tt>rake doc:app</tt>.
-=======
+
 # RubyonRail_tutorial
 Ruby on rail tutorial
->>>>>>> 046f8a4a9d03d0e85074d43340291e2f208e4718
+
